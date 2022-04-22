@@ -27,6 +27,8 @@ Passionate about all things technology and innovation - when not chatting about 
 - B.Design at University of Western Australia, 2016
 
 
+https://www.linkedin.com/posts/david-pt-smith_world-computationaldesign-architecturestudent-activity-6739690273825271808-ocNS?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
