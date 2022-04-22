@@ -12,11 +12,13 @@ I have an architecturally trained background and experience in software developm
 
 David Smith, generic name, interesting guy...  
 
-David is a Design Technology Specialist with a focus on computational design, workflow creation, architectural software development, BIM processes and technology. Problem-solving through applied research is at the core of David’s position, as such he works to enable professionals to achieve their objectives by reducing the barriers of entry in the uptake of new technology as well as leveraging data to drive decision making. 
+An industry leader in the field of architecture, working as a software developer and design technologist leveraging computation to create efficiencies in the way we design, construct, and manage the built environment. 
 
-With an architecturally trained background, David has worked in public art, architecture, architectural visualisation, fabrication, software development, education, and applied research. This unique experience, mindset and set of skills have allowed him to innovate and create value across all stages of the architectural process creating bespoke solutions for a vast array of challenges. 
+Forever curious and learning, with a passion for all things technology and a focus on creating value with the goal of leading others to change the status quo of industries. A disrupter that leverages creativity and critical thinking through applied research to ensure the implementation of the right solution for the problem.
 
-David loves all things technology and has a passion for innovation. When he’s not chatting about architecture, technology or data, you’ll catch him at the beach or enjoying a nice cocktail – a passion from days past as a cocktail bartender.
+The transition from an architectural and computational design background to software development and data science, has enabled a unique mindset and set of skills to solve complex problems and bridge gaps between industry silos. Working collaboratively with stakeholders from multiple disciplines to achieve their goals, reduce barriers of entry in the uptake of new technology, and leverage data to drive decision making across public art, architecture, urban design, fabrication, construction, and education.
+
+Passionate about all things technology and innovation - when not chatting about architecture, technology or data, I'll be at the beach or enjoying a nice cocktail – a passion from days past as a cocktail bartender.
 
 ## Education: 
 
