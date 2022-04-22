@@ -10,7 +10,8 @@ I have an architecturally trained background and experience in software developm
 
 ## About Me: 
 
-David Smith, generic name, interesting guy...
+David Smith, generic name, interesting guy...  
+
 David is a Design Technology Specialist with a focus on computational design, workflow creation, architectural software development, BIM processes and technology. Problem-solving through applied research is at the core of David’s position, as such he works to enable professionals to achieve their objectives by reducing the barriers of entry in the uptake of new technology as well as leveraging data to drive decision making. 
 
 With an architecturally trained background, David has worked in public art, architecture, architectural visualisation, fabrication, software development, education, and applied research. This unique experience, mindset and set of skills have allowed him to innovate and create value across all stages of the architectural process creating bespoke solutions for a vast array of challenges. 
