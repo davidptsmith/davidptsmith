@@ -1,10 +1,15 @@
+
+
+## Hi, My Name is David! 👋
+
+I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" />
 </p>
 
-## Hi, My Name is David! 👋
-
 ## About Me: 
+
 David Smith, generic name, interesting guy...
 David is a Design Technology Specialist with a focus on computational design, workflow creation, architectural software development, BIM processes and technology. Problem-solving through applied research is at the core of David’s position, as such he works to enable professionals to achieve their objectives by reducing the barriers of entry in the uptake of new technology as well as leveraging data to drive decision making. 
 
@@ -17,6 +22,8 @@ David loves all things technology and has a passion for innovation. When he’s 
 - M.DSc at University of Western Australia, 2022 *expected completion*
 - M.Arch at University of Western Australia, 2019
 - B.Design at University of Western Australia, 2016
+
+
 
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
