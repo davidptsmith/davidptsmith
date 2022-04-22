@@ -13,6 +13,8 @@ I love what I do and I am always happy to chat,
 
 feel free to reach out on [LinkedIn](https://www.linkedin.com/in/david-pt-smith/)
 
+<br/>
+
 ## About Me: 
 
 David Smith, generic name, interesting guy...  
