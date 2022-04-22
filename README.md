@@ -7,7 +7,8 @@
 
 I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.
 
-I love what I do and am always happy to chat - feel free to reach out on [LinkedIn](https://www.linkedin.com/in/david-pt-smith/)
+I love what I do and I am always happy to chat,
+feel free to reach out on [LinkedIn](https://www.linkedin.com/in/david-pt-smith/)
 
 ## About Me: 
 
