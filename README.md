@@ -5,7 +5,7 @@
 
 ## Hi, My Name is David! 👋
 
-**I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.**
+I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.
 
 
 ## About Me: 
