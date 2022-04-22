@@ -1,12 +1,12 @@
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" width=100%  />
+</p>
 
 ## Hi, My Name is David! 👋
 
 I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" width=100%  />
-</p>
 
 ## About Me: 
 
@@ -25,9 +25,6 @@ David loves all things technology and has a passion for innovation. When he’s 
 - B.Design at University of Western Australia, 2016
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76982323/158522281-2a0b914b-f72c-4c50-8754-1a5bc9c0bd75.png" width=100% />
-</p>
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
