@@ -7,13 +7,12 @@
 
 I have an architecturally trained background and experience in software development and data science, with a focus on leveraging innovation to solve complex industry problem.
 
-<br/>
 
-I love what I do and I am always happy to chat,  
+I love what I do and I am always happy to chat -
 
 feel free to reach out on [LinkedIn](https://www.linkedin.com/in/david-pt-smith/)
 
-<br/>
+
 
 ## About Me: 
 
@@ -34,6 +33,7 @@ Passionate about all things technology and innovation - when not chatting about 
 - B.Design at University of Western Australia, 2016
 
 
+<br/>
 
 
 <!--
