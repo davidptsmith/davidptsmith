@@ -25,7 +25,9 @@ David loves all things technology and has a passion for innovation. When he’s 
 - B.Design at University of Western Australia, 2016
 
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" />
+</p>
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
