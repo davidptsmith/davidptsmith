@@ -32,6 +32,18 @@ Passionate about all things technology and innovation - when not chatting about 
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+To Do: 
+
+[] Update banner 
+[] Add socials 
+[] Add certs
+
+## Current Projects: 
+//
+
+## Link to articles and reviews 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
