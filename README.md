@@ -35,6 +35,24 @@ Passionate about all things technology and innovation - when not chatting about 
 
 <br/>
 
+## Projects: 
+
+### Software Development 
+
+[**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
+
+Technologies: 
+- C# .Net & WPF
+- AWS S3 & MySQL database 
+
+
+[**if/Lab Web Development**](https://github.com/davidptsmith/iflab-website)
+
+Technologies: 
+- Javascript & some Typescript 
+- Next.js
+- Tailwind CSS
+- Azure Static Web App
 
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
