@@ -46,7 +46,7 @@ Click the headings to read more about the project & go to the repo.
 
 Technologies: 
 - C# .Net & WPF
-- AWS S3 & MySQL database 
+- AWS S3 & RDS MySQL database 
 
 
 <br/>
