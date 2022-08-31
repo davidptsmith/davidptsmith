@@ -37,6 +37,9 @@ Passionate about all things technology and innovation - when not chatting about 
 
 ## Projects: 
 
+Click the headings to read more about the project & go to the repo. 
+
+
 ### Software Development 
 
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
@@ -45,15 +48,97 @@ Technologies:
 - C# .Net & WPF
 - AWS S3 & MySQL database 
 
+
 <br/>
 
-[**if/Lab Web Development**](https://github.com/davidptsmith/iflab-website)
+[**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
+
+[Website link](https://happy-river-0ec5b0d00.1.azurestaticapps.net)
 
 Technologies: 
 - Javascript & some Typescript 
 - Next.js
 - Tailwind CSS
 - Azure Static Web App
+
+<br/>
+
+### Data Science 
+
+[**Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
+
+Technologies: 
+- Python 
+- Spacy 
+- Telegram 
+
+<br/>
+
+[**Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
+
+Technologies: 
+- Python 
+- PyTorch 
+
+Models: 
+- MLP & CNN
+- RNN, GRU, & LSTM
+
+<br/>
+[**Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
+
+Technologies: 
+- R
+- Tidyverse & Tidy Models 
+- Plotly 
+
+Models: 
+- CLassification: KNN, Random Forest, Decision Tree, Logistic Regression, XG Boost, 
+- Clustering: K-Means, UMAP, PCA, Hierarchical 
+
+<br/>
+
+[**Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
+
+Technologies: 
+- Python 
+- Scikit learn & Keras 
+
+Models: 
+- MLP & CNN
+
+<br/>
+
+<!-- ### Cloud Functions  -->
+
+
+
+### Data Storage 
+
+[**Perth Crash Data Storage & Visualisation**](https://github.com/davidptsmith/Crash-Data-SQL-Server-PowerBI-Neo4j)
+
+Technologies: 
+- Python 
+- SQL & Cypher 
+- SQL Server
+- Neo4J
+- PowerBI
+<br/>
+
+### Art & Architecture
+
+[**Esplanade Public Art Proposal | Pose Detection to Rhino3D**](https://github.com/davidptsmith/OpenPoseToRhino3D)
+
+Technologies: 
+- Python 
+- Rhino3D + Grasshopper & C#
+- OpenCV & MediaPipe 
+
+
+<br/>
+
+
+
 
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
