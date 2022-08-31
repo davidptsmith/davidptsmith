@@ -45,6 +45,7 @@ Technologies:
 - C# .Net & WPF
 - AWS S3 & MySQL database 
 
+<br/>
 
 [**if/Lab Web Development**](https://github.com/davidptsmith/iflab-website)
 
