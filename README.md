@@ -35,7 +35,7 @@ Passionate about all things technology and innovation - when not chatting about 
 
 <br/>
 
-# Projects: 
+## Projects: 
 
 Click the headings to read more about the project & go to the repo. 
 
