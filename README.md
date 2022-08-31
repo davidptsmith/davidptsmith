@@ -35,12 +35,12 @@ Passionate about all things technology and innovation - when not chatting about 
 
 <br/>
 
-## Projects: 
+# Projects: 
 
 Click the headings to read more about the project & go to the repo. 
 
 
-### Software Development 
+## Software Development 
 
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
 
@@ -63,7 +63,7 @@ Technologies:
 
 <br/>
 
-### Data Science 
+## Data Science 
 
 [**Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
 
@@ -113,7 +113,7 @@ Models:
 
 
 
-### Data Storage 
+## Data Storage 
 
 [**Perth Crash Data Storage & Visualisation**](https://github.com/davidptsmith/Crash-Data-SQL-Server-PowerBI-Neo4j)
 
@@ -125,7 +125,7 @@ Technologies:
 - PowerBI
 <br/>
 
-### Art & Architecture
+## Art & Architecture
 
 [**Esplanade Public Art Proposal | Pose Detection to Rhino3D**](https://github.com/davidptsmith/OpenPoseToRhino3D)
 
