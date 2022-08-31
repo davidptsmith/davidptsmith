@@ -85,6 +85,7 @@ Models:
 - RNN, GRU, & LSTM
 
 <br/>
+
 [**Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
 
 Technologies: 
