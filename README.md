@@ -75,7 +75,7 @@ Technologies:
     <tr>
         <td width="500px" valign="top">    
 
-[**Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
+[**NLP: Custom Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
 
 Technologies: 
 - Python 
@@ -86,7 +86,7 @@ Technologies:
         
  <td width="500px"  valign="top">
 
-[**Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
+[**NLP: Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
 
 Technologies: 
 - Python 
@@ -101,7 +101,7 @@ Models:
 <tr>
 <td width="500px"  valign="top">
 
-[**Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
+[**EDA: Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
 
 Technologies: 
 - R
@@ -115,7 +115,7 @@ Models:
 </td>
 <td width="500px"  valign="top">
 
-[**Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
+[**CV: Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
 
 Technologies: 
 - Python 
