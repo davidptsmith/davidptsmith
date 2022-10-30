@@ -45,7 +45,8 @@ Click the headings to read more about the project & go to the repo.
 <table>
     <tr>
  <td>
-[**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
+     <a href="[url](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)"><h2>Revit Automation & Quality Assurance Plugins</h2></a>
+
 
 Technologies: 
 - C# .Net & WPF
