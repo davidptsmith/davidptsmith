@@ -1,4 +1,10 @@
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" width=100%  />
 </p>
