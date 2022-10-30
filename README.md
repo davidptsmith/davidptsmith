@@ -42,7 +42,7 @@ Click the headings to read more about the project & go to the repo.
 
 ## Software Development 
 
-<table  width=100%;>
+<table  style="width:100%;">
     <tr><td>
 
      
