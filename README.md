@@ -83,6 +83,7 @@ Technologies:
 - Telegram 
 
 </td>
+        
  <td width="500px"  valign="top">
 
 [**Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
@@ -95,10 +96,10 @@ Models:
 - MLP & CNN
 - RNN, GRU, & LSTM
 
-        </td>
-    </tr>
-    <tr>
-        <td width="500px"  valign="top">
+</td>
+</tr>
+<tr>
+<td width="500px"  valign="top">
 
 [**Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
 
@@ -111,8 +112,8 @@ Models:
 - CLassification: KNN, Random Forest, Decision Tree, Logistic Regression, XG Boost, 
 - Clustering: K-Means, UMAP, PCA, Hierarchical 
      
-        </td>
-        <td width="500px"  valign="top">
+</td>
+<td width="500px"  valign="top">
 
 [**Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
 
@@ -123,8 +124,8 @@ Technologies:
 Models: 
 - MLP & CNN
 
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
      
 
@@ -135,8 +136,8 @@ Models:
 ## Data Storage 
 
 <table>
-    <tr>
-        <td width="500px"  valign="top">
+<tr>
+<td width="500px"  valign="top">
 
 [**Perth Crash Data Storage & Visualisation**](https://github.com/davidptsmith/Crash-Data-SQL-Server-PowerBI-Neo4j)
 
@@ -148,8 +149,8 @@ Technologies:
 - PowerBI
 
       
-        </td>
-         <td width="500px"  valign="top">
+</td>
+<td width="500px"  valign="top">
 
 ## Art & Architecture
 
@@ -161,9 +162,9 @@ Technologies:
 - OpenCV & MediaPipe 
 
      
-        </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 
 
 
