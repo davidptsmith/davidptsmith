@@ -41,8 +41,6 @@ Click the headings to read more about the project & go to the repo.
 
 ## Software Development 
 
-
-
 <table  >
     <tr><td width="500px" valign="top">    
         
@@ -50,7 +48,8 @@ Click the headings to read more about the project & go to the repo.
 
 Technologies: 
 - C# .Net & WPF
-- AWS S3 & RDS MySQL database 
+- AWS S3 
+- RDS MySQL database 
 
 
 </td>
@@ -72,6 +71,10 @@ Technologies:
 
 ## Data Science 
 
+<table>
+    <tr>
+        <td width="500px" valign="top">    
+
 [**Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
 
 Technologies: 
@@ -79,7 +82,8 @@ Technologies:
 - Spacy 
 - Telegram 
 
-<br/>
+</td>
+ <td width="500px"  valign="top">
 
 [**Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
 
@@ -91,7 +95,10 @@ Models:
 - MLP & CNN
 - RNN, GRU, & LSTM
 
-<br/>
+        </td>
+    </tr>
+    <tr>
+        <td width="500px"  valign="top">
 
 [**Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
 
@@ -103,8 +110,9 @@ Technologies:
 Models: 
 - CLassification: KNN, Random Forest, Decision Tree, Logistic Regression, XG Boost, 
 - Clustering: K-Means, UMAP, PCA, Hierarchical 
-
-<br/>
+     
+        </td>
+        <td width="500px"  valign="top">
 
 [**Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
 
@@ -115,13 +123,20 @@ Technologies:
 Models: 
 - MLP & CNN
 
-<br/>
+        </td>
+    </tr>
+</table>
+     
 
 <!-- ### Cloud Functions  -->
 
 
 
 ## Data Storage 
+
+<table>
+    <tr>
+        <td width="500px"  valign="top">
 
 [**Perth Crash Data Storage & Visualisation**](https://github.com/davidptsmith/Crash-Data-SQL-Server-PowerBI-Neo4j)
 
@@ -131,7 +146,10 @@ Technologies:
 - SQL Server
 - Neo4J
 - PowerBI
-<br/>
+
+      
+        </td>
+         <td width="500px"  valign="top">
 
 ## Art & Architecture
 
@@ -142,8 +160,10 @@ Technologies:
 - Rhino3D + Grasshopper & C#
 - OpenCV & MediaPipe 
 
-
-<br/>
+     
+        </td>
+    </tr>
+  </table>
 
 
 
