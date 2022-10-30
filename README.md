@@ -44,7 +44,7 @@ Click the headings to read more about the project & go to the repo.
 
 
 <table  >
-    <tr><td width="500px" style="vertical-align: bottom;">    
+    <tr><td width="500px" valign="top">    
         
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
 
@@ -54,7 +54,7 @@ Technologies:
 
 
 </td>
- <td width="500px"  style="vertical-align: bottom;">
+ <td width="500px"  valign="top">
      
 [**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
 
