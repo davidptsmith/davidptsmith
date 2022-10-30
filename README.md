@@ -44,9 +44,7 @@ Click the headings to read more about the project & go to the repo.
 
 
 <table  >
-    <tr><td width="500px">
-
-     
+    <tr><td width="500px">    
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
 
 Technologies: 
@@ -54,12 +52,9 @@ Technologies:
 - AWS S3 & RDS MySQL database 
 
 
-<br/></td>
+</td>
  <td width="500px">
-     
-  
 [**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
-     
 
 [Website link](https://happy-river-0ec5b0d00.1.azurestaticapps.net)
 
@@ -69,7 +64,6 @@ Technologies:
 - Tailwind CSS
 - Azure Static Web App
 
-<br/>
 </td>
 </tr>
 </table>
