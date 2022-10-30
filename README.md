@@ -1,10 +1,3 @@
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" width=100%  />
 </p>
@@ -48,8 +41,10 @@ Click the headings to read more about the project & go to the repo.
 
 ## Software Development 
 
-<table  style="width:100%;">
-    <tr><td>
+
+
+<table  >
+    <tr><td width="500px">
 
      
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
@@ -60,7 +55,7 @@ Technologies:
 
 
 <br/></td>
- <td>
+ <td width="500px">
      
   
 [**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
