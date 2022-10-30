@@ -43,10 +43,10 @@ Click the headings to read more about the project & go to the repo.
 ## Software Development 
 
 <table>
-    <tr>
- <td>
-     <a href="[url](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)" target="_blank">Revit Automation & Quality Assurance Plugins</a>
+    <tr><td>
 
+     
+[**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
 
 Technologies: 
 - C# .Net & WPF
@@ -56,7 +56,8 @@ Technologies:
 <br/></td>
  <td>
      
-     <a href="https://github.com/davidptsmith/iflab-website"><h4>if/Lab Website Development</h4></a>
+  
+[**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
      
 
 [Website link](https://happy-river-0ec5b0d00.1.azurestaticapps.net)
