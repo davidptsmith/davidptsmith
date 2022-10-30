@@ -150,9 +150,16 @@ Technologies:
 
       
 </td>
-<td width="500px"  valign="top">
+</tr>
+</table>
+
+
 
 ## Art & Architecture
+
+<table>
+<tr>
+<td width="500px"  valign="top">
 
 [**Esplanade Public Art Proposal | Pose Detection to Rhino3D**](https://github.com/davidptsmith/OpenPoseToRhino3D)
 
