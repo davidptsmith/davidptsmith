@@ -42,6 +42,9 @@ Click the headings to read more about the project & go to the repo.
 
 ## Software Development 
 
+<table>
+    <tr>
+ <td>
 [**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
 
 Technologies: 
@@ -49,8 +52,8 @@ Technologies:
 - AWS S3 & RDS MySQL database 
 
 
-<br/>
-
+<br/></td>
+ <td>
 [**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
 
 [Website link](https://happy-river-0ec5b0d00.1.azurestaticapps.net)
@@ -62,6 +65,9 @@ Technologies:
 - Azure Static Web App
 
 <br/>
+</td>
+</tr>
+</table>
 
 ## Data Science 
 
