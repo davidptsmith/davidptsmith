@@ -30,17 +30,11 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 ## Education: 
 
-**Master of Data Science**
+**Master of Data Science** | University of Western Australia, 2022 *expected completion*  
 
-University of Western Australia, 2022 *expected completion*  
+**Master of Architecture** | University of Western Australia, 2019
 
-**Master of Architecture**
-
-University of Western Australia, 2019
-
-**Bachelor of Design with a Double Major in Architecture & Integrated Design**
-
-University of Western Australia, 2016
+**Bachelor of Design with a Double Major in Architecture & Integrated Design** | University of Western Australia, 2016
 
 
 <br/>
