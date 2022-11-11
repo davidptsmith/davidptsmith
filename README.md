@@ -34,8 +34,13 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 University of Western Australia, 2022 *expected completion*  
 
-- Master of Architecture at University of Western Australia, 2019
-- Bachelor of Design with a Double Major in Architecture & Integrated Design at University of Western Australia, 2016
+**Master of Architecture**
+
+University of Western Australia, 2019
+
+**Bachelor of Design with a Double Major in Architecture & Integrated Design**
+
+University of Western Australia, 2016
 
 
 <br/>
