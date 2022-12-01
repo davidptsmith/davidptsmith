@@ -30,7 +30,7 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 ## Education: 
 
-**Master of Data Science** | University of Western Australia, 2022 *expected completion*  
+**Master of Data Science with Distinction** | University of Western Australia, 2022 
 
 **Master of Architecture** | University of Western Australia, 2019
 
