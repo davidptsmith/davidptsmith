@@ -78,18 +78,8 @@ Technologies:
 
 <table>
     <tr>
-        <td width="500px" valign="top">    
 
-[**NLP: Custom Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
-
-Technologies: 
-- Python 
-- Spacy 
-- Telegram 
-
-</td>
-        
- <td width="500px"  valign="top">
+<td width="500px"  valign="top">
 
 [**NLP: Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
 
@@ -102,8 +92,19 @@ Models:
 - RNN, GRU, & LSTM
 
 </td>
-</tr>
-<tr>
+
+
+        <td width="500px" valign="top">    
+
+[**Exploring Graph ML**]([https://github.com/davidptsmith/SpacyPatternMatchingChatbot](https://github.com/davidptsmith/Exploring-Graph-ML))
+
+Technologies: 
+- Python 
+- PyTorch 
+
+</td>
+<tr>        
+
 <td width="500px"  valign="top">
 
 [**EDA: Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
@@ -131,8 +132,32 @@ Models:
 
 </td>
 </tr>
+
+<tr>
+    
+
+
+ <td width="500px"  valign="top">
+
+[**NLP: Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
+
+Technologies: 
+- Python 
+- PyTorch 
+
+Models: 
+- MLP & CNN
+- RNN, GRU, & LSTM
+
+</td>
+</tr>
+
+</tr>
+
+<td width="500px"  valign="top">
+
+
 </table>
-     
 
 <!-- ### Cloud Functions  -->
 
