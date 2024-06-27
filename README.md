@@ -100,7 +100,10 @@ Models:
 
 Technologies: 
 - Python 
-- PyTorch 
+- PyTorch
+
+Models: 
+- Multi-Layered Perceptron, Graph Neural Network, Graph Convolutional Neural Network, Graph Attention Network, GraphSage
 
 </td>
 <tr>        
