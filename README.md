@@ -94,7 +94,7 @@ Models:
 </td>
 
 
-        <td width="500px" valign="top">    
+<td width="500px" valign="top">    
 
 [**Exploring Graph ML**]([https://github.com/davidptsmith/SpacyPatternMatchingChatbot](https://github.com/davidptsmith/Exploring-Graph-ML))
 
